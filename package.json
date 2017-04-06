@@ -1,0 +1,23 @@
+{
+  "name": "node-express-book",
+  "version": "1.0.0",
+  "description": "第二次看书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qazse41/node-express-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qazse41/node-express-book/issues"
+  },
+  "homepage": "https://github.com/qazse41/node-express-book#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
